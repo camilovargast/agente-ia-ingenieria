@@ -9,7 +9,7 @@ kjjbbkjb# Asistente de Ingeniería para el Ciclo de Vida del sistema
 - **Nombre del repositorio:** agente-ia-ingenieria, 
 - **Área:** Ingeniería de Sistemas y de Software
 - **Tema:** Desarrollo de un Asistente de ingeniería para el ciclo de vida del sistema.
-- **Síntoma:** Dificultad de gestionar los artefactos de ingeniería durante el ciclo de vida del sistema.
+- **Síntoma:** Dificultad de gestionar los artefactos de ingeniería durante el ciclo de vida del sistema. Actualmente, al arrancar un proyecto, el ingeniero dedica días a transformar fuentes dispersas (actas, correos, PDFs del cliente, normativa, especificaciones previas) en los primeros artefactos. Cuando usa un chatbot genérico, cada conversación empieza de cero, las respuestas no usan el contexto real del proyecto, los artefactos de distintas fases y fuentes se contradicen entre sí y no quedan trazadas relaciones lógicas y negocio entre ellos.
 - **Causa:** La información y requerimientos del problema esta dispersa en varíos documentos y herramientas, lo que dificulta mantener el contexto.
 - **Interes:** [AAAA-MM-DD]
 - **Consecuencias de no resolverlo:** [AAAA-MM-DD]
