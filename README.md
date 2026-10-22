@@ -17,7 +17,7 @@ kjjbbkjb# Asistente de Ingeniería para el Ciclo de Vida del sistema
 - **Trabajos existentes:** [AAAA-MM-DD]
 - **Solución propuesta:** [AAAA-MM-DD]
 - **Hipótesis:** [Si se implementa un agente de IA generativa en Hermes capaz de analizar diferentes fuentes de información, mantener el contexto del proyecto y generar artefactos de ingeniería, entonces se reducirá al menos un X% el tiempo necesario para crear los artefactos iniciales y se mejorará su consistencia y trazabilidad, en comparación con el uso de un chatbot genérico sin contexto persistente.]
-- **Parámetros para corroborar la hipótesis:** [Tiempo de generación: reducción de al menos un 25 % del tiempo necesario para generar los artefactos iniciales.Consistencia de la información: al menos un 90 % de coherencia entre los artefactos generados y las fuentes originales.]
+- **Parámetros para corroborar la hipótesis:** [Tiempo de generación: reducción de al menos un X% del tiempo necesario para generar los artefactos iniciales.Consistencia de la información: al menos un X% de coherencia entre los artefactos generados y las fuentes originales.]
 - **Estándares implicados:** [ISO/IEC/IEEE 15288: procesos del ciclo de vida de sistemas.ISO/IEC/IEEE 29148: definición, análisis y calidad de requisitos.]
 
 
