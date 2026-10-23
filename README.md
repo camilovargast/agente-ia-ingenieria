@@ -1,8 +1,4 @@
 # Asistente de Ingeniería para el Ciclo de Vida del sistema
-# agente-ia-ingenieria
-Este repositorio contiene el código fuente de un agente de IA para ingeniería elaborado en Hermes.
-
-# Asistente de Ingeniería para el Ciclo de Vida del sistema
 
 El repositorio **agente-ia-ingenieria** contiene el desarrollo de un asistente basado en inteligencia artificial generativa para apoyar al ingeniero informático durante distintas fases del ciclo de vida del software. El asistente mantiene un contexto persistente del proyecto y permite generar y revisar artefactos de análisis de necesidades, requisitos, arquitectura, diseño, verificación y validación. Asimismo, proporciona trazabilidad entre los artefactos y se integra con herramientas de desarrollo para apoyar la continuidad y coherencia del trabajo.
 
